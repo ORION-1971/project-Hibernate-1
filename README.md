@@ -1,4 +1,7 @@
 Мини Проект по теме: Hibernate #1
+
 https://javarush.com/quests/lectures/jru.module4.lecture06
-JDK 22.0.2
-Tomcat 10.0.0
+
+## Настройки запуска проекта
+- Версия Java - Oracle OpenJDK 22.02
+- Tomcat 10 версии
